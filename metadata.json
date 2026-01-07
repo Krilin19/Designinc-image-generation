@@ -1,0 +1,5 @@
+{
+  "name": "NanoGraph Pro",
+  "description": "A professional multimodal image generation chat interface powered by the Gemini 3 Pro (Nano Banana Pro 2) model.",
+  "requestFramePermissions": []
+}
